@@ -12,7 +12,7 @@ This app explains **when to use each hook** to improve performance in a React ap
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone 
+git clone https://github.com/DeviPothula/React-Hooks.git
 cd react-hooks
 
 ```
